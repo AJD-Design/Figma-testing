@@ -21,14 +21,18 @@
       <img src="https://github.com/user-attachments/assets/3395d4a3-fb98-4ac8-b0a4-498f3cbb1eb0" alt="black chalk with gray wash heightened with white on blue laid paper image of a woodland, created by Simon de Vlieger"/>
   </div>
   
-  <div id="calendar">
-    <html lang="en">
-<head>
+<div id="calendar">
+  <!DOCTYPE html>  
+  <html lang="en">
+  <head>
   <meta charset="UTF-8">
+  <meta name="viewport"
+  content="width=device-width, initial-scale=1">
+  
   <h1><strong>Schedule</strong></h1>
 </head>
 <body>
-<h1>October 2024 Calendar</h1>
+<h2>October 2024 Calendar</h2>
   <table>
     <thead>
       <tr>
@@ -90,6 +94,6 @@
     </tbody>
   </table>
 
+  </html>
+    </div>
 </body>
-</html>
-  </div>
