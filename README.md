@@ -1,99 +1,44 @@
-<body>
-  <img src="https://github.com/user-attachments/assets/ea7da39d-85fc-4c10-904b-33e697f8ac63" alt="Oil painting of ships on the sea called Estuary at Day's End, created by Simon de Vlieger"/>
-  <h6>Estuary at Day's End c. 1640/1645</h6>
 
+
+<body>
+  <img src="https://github.com/user-attachments/assets/e4275b83-8cc5-4fbc-9bea-f33b27434148" alt="Oil painting of Madonna and Child with Angels" height=600px width=460px/>
+  
   <h1>EXHIBITION NAME</h1>
-  <h2><strong>Simon de Vlieger</strong></h2> 
-  <p>Dutch, 1600/1601 - 1653</p>
+  <h2><strong>Hans Memling</strong></h2> 
   <h1>10.06.2024 - 10.11.2024</h1>
   
-  <div id="introduction">
-    <p>Oil on panel <br>
-    Overall: 36.8 x 58.4 cm (<em>14 1/2 x 23 in.</em>)
-    Framed: 50.2 x 72.4 x 6.7 cm (<em>19 3/4 x 28 1/2 x 2 5/8 in.</em>)
-
-  By the mid-seventeenth century the Dutch were the greatest sea power in the world. Their ships dominated the oceans, ensuring not only the military security of the Republic but also its prosperity. Indeed, the          combination of regional and global trade brought everything from exotic spices to bulk staples, such as grain and salt, to the Dutch ports. Simon de Vlieger's most innovative paintings, including this Estuary at        Day’s End, capture the flavour of daily life along the Dutch coast. In this restrained and sensitive composition, two workers apply tar to the hull of a ship resting on a sandbar at low tide. Black smoke from the fire that heats the tar rises up toward the towering clouds.</p>
-    </div>
-  <div id="media">  
-    <h3>Other Artworks</h3>
-    <ul>
-      <li>In the Hague Woods</li>
-      <img src="https://github.com/user-attachments/assets/3395d4a3-fb98-4ac8-b0a4-498f3cbb1eb0" alt="black chalk with gray wash heightened with white on blue laid paper image of a woodland, created by Simon de Vlieger"/>
+  <div id="whats on">
+  <h2>What's on</h2> <br>
+      <img src="https://github.com/user-attachments/assets/9e532526-aa90-433f-8eed-42e63b75f2af" alt="albumen print of Notre Dame" height=400px width=300px/>
+    <p><Strong>Title</Strong></p>
+    <p>10.06.2024</p>
+      <img src="https://github.com/user-attachments/assets/5990ba06-9878-469c-bc6e-280107e85d15" alt="Oil painting of Basket of Flowers" height=400px width=500px/>
+    <p><Strong>Title</Strong></p>
+    <p>10.06.2024</p>
+      <img src="https://github.com/user-attachments/assets/a376b936-a6ff-45f5-97af-855110baa53c" alt="Tempura on poplar panel of Joachim and Anna Giving Food to the Poor and Offerings to the Temple" height=400px width=300px>
+    <p><Strong>Title</Strong></p>
+    <p>10.06.2024</p>
   </div>
   
-<div id="calendar">
-  <!DOCTYPE html>  
-  <html lang="en">
-  <head>
-  <meta charset="UTF-8">
-  <meta name="viewport"
-  content="width=device-width, initial-scale=1">
+  <div id="what's next">  
+    <h2>What's next</h2>
+        <img src="https://github.com/user-attachments/assets/8c53b2b1-d1b2-4099-8da6-2908ba3a13cc" alt="Oil painting of a Banquet Piece with Mince Pie" height=400px width=410px/>
+      <p><strong>18 Nov</strong></p>
+      <p><strong>Exhibition name</strong></p>
+      <p>Willem Claesz Heda (artist) Dutch, 1594 - 1680. In 1648 a contemporary writer noted that Willem Claesz Heda was a specialist in breakfast and banquet still lifes, painting "fruit... </p>
+         <img src="https://github.com/user-attachments/assets/dab13683-3f2a-44ae-a17d-2bed2ed20842" alt="Oil patining of estuary at days end" height=400px width=600px/>
+      <p><strong>18 Nov</strong></p>
+      <p><strong>Exhibition name</strong></p>
+      <p>Simon de Vlieger (painter) Dutch, 1600/1601 - 1653. By the mid-seventeenth century the Dutch were the greatest sea power in the world. Their ships dominated the oceans, ensuring...</p>
+         <img src="https://github.com/user-attachments/assets/14ec0460-aa29-49a2-8eeb-10315365e59f" alt="Oil painting of Youth Making a Face" height=400px width=300px/>
+      <p><strong>18 Nov</strong></p>
+      <p><strong>Exhibition name</strong></p>
+      <p>Adriaen Brouwer (painter) Flemish, 1605/1606 - 1638. Adriaen Brouwer was one of the most expressive artists of the 17th century. His great contribution to genre painting was to give a... </p>
+  </div> <br>
+  <div id="Footer">
+    <img src="https://github.com/user-attachments/assets/646422d2-9fa1-4ce6-a956-392a7b373d06" alt="Image of map" height=300px width=400px/>
+    <p>Address<br>4438 Tillman Fort, Bolingbrook 14725</p>
+    <p>Admission<br>Monday - Friday: 10:00 to 18:00<br>Saturday: 10:00 to 19:00</p>
+  </div>
   
-  <h1><strong>Schedule</strong></h1>
-</head>
-<body>
-<h2>October 2024 Calendar</h2>
-  <table>
-    <thead>
-      <tr>
-        <th>Mon</th>
-        <th>Tue</th>
-        <th>Wed</th>
-        <th>Thu</th>
-        <th>Fri</th>
-        <th>Sat</th>
-        <th>Sun</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td></td>
-        <td></td>
-        <td class="today">1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>6</td>
-        <td>7</td>
-        <td>8</td>
-        <td>9</td>
-        <td>10</td>
-        <td>11</td>
-        <td>12</td>
-      </tr>
-      <tr>
-        <td>13</td>
-        <td>14</td>
-        <td>15</td>
-        <td>16</td>
-        <td>17</td>
-        <td>18</td>
-        <td>19</td>
-      </tr>
-      <tr>
-        <td>20</td>
-        <td>21</td>
-        <td>22</td>
-        <td>23</td>
-        <td>24</td>
-        <td>25</td>
-        <td>26</td>
-      </tr>
-      <tr>
-        <td>27</td>
-        <td>28</td>
-        <td>29</td>
-        <td>30</td>
-        <td>31</td>
-        <td></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-
-  </html>
-    </div>
 </body>
