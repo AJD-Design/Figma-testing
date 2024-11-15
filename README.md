@@ -1,11 +1,13 @@
 
 
 <body>
-  <img src="https://github.com/user-attachments/assets/e4275b83-8cc5-4fbc-9bea-f33b27434148" alt="Oil painting of Madonna and Child with Angels" height=600px width=460px/>
+  <div id="Parent image">
+    
   
-  <h1>EXHIBITION NAME</h1>
-  <h2><strong>Hans Memling</strong></h2> 
-  <h1>10.06.2024 - 10.11.2024</h1>
+  <img src="https://github.com/user-attachments/assets/e4275b83-8cc5-4fbc-9bea-f33b27434148" alt="Oil painting of Madonna and Child with Angels" height=600px width=460px/>
+    <h1>EXHIBITION NAME</h1>
+    <h2><strong>Hans Memling</strong></h2> 
+    <h1>10.06.2024 - 10.11.2024</h1>
   
   <div id="whats on">
   <h2>What's on</h2> <br>
